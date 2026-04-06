@@ -60,14 +60,15 @@ An end-to-end information systems project that started with business analysis an
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoavne26-hub&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" alt="Yoav's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yoavne26-hub&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="Yoav Nesher GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoavne26-hub&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoavne26-hub&layout=compact&theme=default" alt="Top languages" />
 </p>
 
 ---
+
 
 ## What I'm Interested In
 
@@ -93,5 +94,5 @@ That is usually what pulls me most toward data, optimization, and intelligent sy
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yoav-nesher/)
-- 📫 Email: **yoavne26@gmail.com**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yoav%20Nesher-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoav-nesher/)
+- 📧 Email: **yoavne26@gmail.com**
