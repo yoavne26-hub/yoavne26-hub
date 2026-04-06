@@ -60,11 +60,11 @@ An end-to-end information systems project that started with business analysis an
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoavne26-hub&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="Yoav Nesher GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yoavne26-hub&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoavne26-hub&layout=compact&theme=default" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoavne26-hub&layout=compact" />
 </p>
 
 ---
