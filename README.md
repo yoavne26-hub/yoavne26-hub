@@ -57,18 +57,6 @@ An end-to-end information systems project that started with business analysis an
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoavne26-hub&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoavne26-hub&layout=compact" />
-</p>
-
----
-
 
 ## What I'm Interested In
 
