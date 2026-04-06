@@ -1,7 +1,7 @@
 # Hey! I'm Yoav Nesher 👋
 
 I'm a third-year Industrial Engineering and Management student at Ben-Gurion University, specializing in Intelligent Systems.  
-I enjoy working on projects that combine data, logic, and real-world problem solving — especially in data analysis, machine learning, optimization, simulation, and system design.
+I enjoy working on projects that combine data, logic, and real-world problem solving, especially in data analysis, machine learning, optimization, simulation, and system design.
 
 What I like most is taking an idea, breaking it down, and turning it into something structured and useful. Sometimes that means building a model, sometimes designing a system, and sometimes creating a practical tool that improves the way people work.
 
