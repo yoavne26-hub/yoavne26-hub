@@ -46,6 +46,9 @@ A simulation and analytics project combining event-driven simulation, scenario c
 ### [Reversi Strategy Lab](https://github.com/yoavne26-hub/reversi-strategy-lab)
 A browser-based Reversi platform that evolved from an OOP project into a strategy and simulation environment, including gameplay, AI matchups, and analytical comparison between strategies.
 
+### [Nepotism Risk Analytics](https://github.com/yoavne26-hub/nepotism-risk-analytics)
+A simulation-driven HR analytics platform that models nepotism risk, hiring, promotions, and suspicious decisions across different organizational regimes.
+
 ### [Cognitive Performance Regression Analysis](https://github.com/yoavne26-hub/cognitive-performance-regression-analysis)
 A statistical modeling project using regression analysis to explore how behavioral and lifestyle variables may influence cognitive performance.
 
