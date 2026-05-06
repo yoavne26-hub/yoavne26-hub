@@ -34,8 +34,14 @@ What I like most is taking an idea, breaking it down, and turning it into someth
 
 ## Featured Projects
 
+### [MailWatch Tower](https://github.com/yoavne26-hub/mailwatch-tower)
+An explainable Gmail security add-on for malicious-email risk assessment, combining Google Apps Script, a Python FastAPI backend, deterministic scoring, suspicious-signal analysis, and user-friendly verdict explanations.
+
 ### [BGU Companion](https://github.com/yoavne26-hub/bgu-companion-chrome-extension)
 A Chrome extension built to simplify student workflow by centralizing access to important university systems and frequently used academic links in one place.
+
+### [IIOT Sync vs Async Simulator](https://github.com/yoavne26-hub/iiot-project-sync-vs-async)
+A visual IIOT network simulator built with Python and Tkinter, comparing synchronous round-based message passing with asynchronous message-driven execution using a distance-vector style routing algorithm.
 
 ### [Deep Learning Vision Models](https://github.com/yoavne26-hub/deep-learning-vision-models)
 A deep learning project focused on dense neural networks and convolutional neural networks, built from both a mathematical and implementation perspective using NumPy and PyTorch.
