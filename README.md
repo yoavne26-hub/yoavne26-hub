@@ -42,7 +42,7 @@ What I like most is taking an idea, breaking it down, and turning it into someth
 ### 🔐 Security & AI
 
 #### [CVE Trend Task](https://github.com/yoavne26-hub/CVE-Trend-Task)
-A Streamlit dashboard for CVE trend analysis and exploitation prioritization, joining **355K+ CVEs** from NVD, EPSS, and the CISA KEV catalog. It makes the case that static severity scoring over-flags, and that runtime-aware context is what makes vulnerability prioritization actionable.
+A Streamlit dashboard for CVE trend analysis and exploitation prioritization, joining **355K+ CVEs** from NVD, EPSS, and the CISA KEV catalog. It makes the case that static severity scoring over-flags, and that runtime-aware context is what makes vulnerability prioritization actionable, showcasing new parameter created to combine runtime context and machine learning model building - RES-24.
 
 #### [AttackGen](https://github.com/yoavne26-hub/attackGen)
 A full-stack Red Team attack dataset generator built for an AI Red vs. Blue Bootcamp — a PostgreSQL command pool, scenario-aware kill-chain composition, a FastAPI backend, a React frontend, and LLM-driven attack generation with a deterministic fallback so the demo never fails.
