@@ -41,6 +41,9 @@ What I like most is taking an idea, breaking it down, and turning it into someth
 
 ### 🔐 Security & AI
 
+#### [Northstar — Cloud Runtime Security](https://github.com/yoavne26-hub/northstar)
+A cloud-runtime security (CDR/CNAPP) **triage platform** in React + TypeScript + Vite that turns an overwhelming detection stream into a clear **Understand → Decide → Act** workflow. It features a **tunable risk score** (weighted factors with an inline editor and personality presets), **RES-24** prioritize/monitor/defer verdicts, scoped and advanced filtering with saved views, an investigation drawer, an activity-events console, CVE-trend prioritization, fleet analytics, role-based access, and a **Red vs Blue** range — tying several of the projects below (AttackGen, CVE Trend, and a blue-team detection engine) into one product.
+
 #### [CVE Trend Task](https://github.com/yoavne26-hub/CVE-Trend-Task)
 A Streamlit dashboard for CVE trend analysis and exploitation prioritization, joining **355K+ CVEs** from NVD, EPSS, and the CISA KEV catalog. It makes the case that static severity scoring over-flags, and that runtime-aware context is what makes vulnerability prioritization actionable, showcasing new parameter created to combine runtime context and machine learning model building - RES-24.
 
